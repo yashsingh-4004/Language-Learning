@@ -343,3 +343,6 @@ practice Question : Print The table of a number input by the user
 
 //     return 0;
 // }
+
+
+
